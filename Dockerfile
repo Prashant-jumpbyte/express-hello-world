@@ -1,4 +1,4 @@
-FROM node:7.7-alpine
+FROM 609906240783.dkr.ecr.us-east-2.amazonaws.com/nginx:7.7-alpine
 MAINTAINER Jatin Shridhar <shridhar.jatin@gmail.com>
 
 # install deps
