@@ -1,4 +1,4 @@
-FROM 383422604724.dkr.ecr.us-east-2.amazonaws.com/node7.7-alpine:latest
+FROM 383422604724.dkr.ecr.ap-south-1.amazonaws.com/node7.7-alpine:latest
 MAINTAINER Jatin Shridhar <shridhar.jatin@gmail.com>
 
 # install deps
