@@ -10,5 +10,5 @@ Resources:
         PlatformVersion: "LATEST"
         NetworkConfiguration:
           AwsvpcConfiguration:
-            Subnets: ["$SUBNET_1", "$SUBNET_2"]
+            Subnets: ["$SUBNET_1"]
             SecurityGroups: ["$SECURITY_GROUP_1", "$SECURITY_GROUP_2"]
